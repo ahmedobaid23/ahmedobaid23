@@ -1,4 +1,9 @@
 ## Hi there 👋
+## Myself Ahmed
+
+A passionate software engineering student with hands-on experience in full-stack web development, cloud deployment, and AI-powered solutions. Proven track record through open-source contributions, freelance projects, and real-world internships. Eager to build impactful products at the intersection of technology and innovation.
+
+
 
 <!--
 **ahmedobaid23/ahmedobaid23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
