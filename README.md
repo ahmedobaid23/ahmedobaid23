@@ -129,7 +129,12 @@ Explored the world of opensource by contributing to the following projects
 #### 👉 safAI
 
 - safAI, our final year project, is an AI-driven garbage detection platform that uses satellite imagery and machine learning techniques to identify waste in large-scale environments.
-- **_Tools used:_** PyTorch, FastAPI, Next.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma, Clerk
+- **_Tools used:_** PyTorch, FastAPI, Next.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma, Clerk, Supabase, Vercel
+
+#### 👉 RapidStart - [Live Link](https://rapidstart-frontend-v2.vercel.app/)
+
+- Worked as a frontend developer on a freelance social media automation and analytics platform, enabling seamless integration with Instagram, Facebook, Twitter, Reddit, YouTube, and LinkedIn.
+- **_Tools used:_** Next.js, TypeScript, TailwindCSS, Vercel
 
 #### 👉 Genius - [Live Link](https://ahmed-ai-saas.vercel.app/)
 
